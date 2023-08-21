@@ -1,0 +1,132 @@
+
+ScreenUI.png
+size: 1024, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+flatDark12
+  rotate: false
+  xy: 972, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+flatDark13
+  rotate: false
+  xy: 822, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+flatDark14
+  rotate: false
+  xy: 872, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+flatDark15
+  rotate: false
+  xy: 872, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+flatDark23
+  rotate: false
+  xy: 576, 20
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+flatDark24
+  rotate: false
+  xy: 166, 20
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+flatDark27
+  rotate: false
+  xy: 84, 20
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+flatDark44
+  rotate: false
+  xy: 494, 20
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+flatDark48
+  rotate: false
+  xy: 2, 20
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+flatLight11
+  rotate: false
+  xy: 922, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+flatLight12
+  rotate: false
+  xy: 922, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+flatLight13
+  rotate: false
+  xy: 972, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+flatLight14
+  rotate: false
+  xy: 822, 52
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+flatLight22
+  rotate: false
+  xy: 740, 20
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+flatLight23
+  rotate: false
+  xy: 412, 20
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+flatLight26
+  rotate: false
+  xy: 330, 20
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+flatLight43
+  rotate: false
+  xy: 658, 20
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+flatLight47
+  rotate: false
+  xy: 248, 20
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
